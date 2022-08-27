@@ -1,4 +1,4 @@
- import pystan
+import pystan
 import pickle
 from models.stan_dlm_models import *
 
